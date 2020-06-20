@@ -1,0 +1,77 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Idk",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubber_wood"
+    },
+    {
+      "name": "Rubber",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubber"
+    },
+    {
+      "name": "Plastic",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plastic"
+    },
+    {
+      "name": "Plasticsmelting",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plasticsmelting"
+    },
+    {
+      "name": "Lego",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lego"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.modern_items_mod.plastic": "Plastic",
+      "item.modern_items_mod.lego": "Lego",
+      "block.modern_items_mod.rubber_wood": "Rubber wood",
+      "item.modern_items_mod.rubber": "Rubber"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "modern_items_mod",
+    "modName": "Modern items mod",
+    "version": "1.0.0",
+    "author": "jacob, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.modernitemsmod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000322116
+}
